@@ -1,0 +1,6 @@
+Nanayakkara,Male,Neurologist,2500.0
+Sampath Herath,Male,Cardiologist,2000.0
+Suneetha Damayanthi,Female,Dentist,1800.0
+Nawoda Wickramasinghe,Female,Family Physicians,4000.0
+Madawaththage Perera,Male,OPD,3000.0
+Dinithi Dedunu,Female,For child care,4500.0
