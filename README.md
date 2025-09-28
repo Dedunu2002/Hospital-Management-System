@@ -56,7 +56,7 @@ Hospital-Management-System/
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/Hospital-Management-System.git
+git clone https://github.com/Dedunu2002/Hospital-Management-System.git
 
 
 2️⃣ Open the project in NetBeans
